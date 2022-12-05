@@ -1,0 +1,33 @@
+{
+    "categories":
+    [ 
+        {
+            "id": 1483,
+            "title": "Muziejai"
+        },
+        {
+            "id": 1003,
+            "title": "Teatras"
+        },
+        {
+            "id": 1002,
+            "title": "Koncertai"
+        },
+        {
+            "id": 1005,
+            "title": "Sportas"
+        },
+        {
+            "id": 1006,
+            "title": "Festivaliai"
+        },
+        {
+            "id": 1007,
+            "title": "Kinas"
+        },
+        {
+            "id": 1009,
+            "title": "Kita"
+        }
+    ]
+}
