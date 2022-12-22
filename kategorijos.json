@@ -3,31 +3,31 @@
     [ 
         {
             "id": 1483,
-            "title": "Muziejai"
+            "title": "muziejai"
         },
         {
             "id": 1003,
-            "title": "Teatras"
+            "title": "teatras"
         },
         {
             "id": 1002,
-            "title": "Koncertai"
+            "title": "koncertai"
         },
         {
             "id": 1005,
-            "title": "Sportas"
+            "title": "sportas"
         },
         {
             "id": 1006,
-            "title": "Festivaliai"
+            "title": "festivaliai"
         },
         {
             "id": 1007,
-            "title": "Kinas"
+            "title": "kinas"
         },
         {
             "id": 1009,
-            "title": "Kita"
+            "title": "kita"
         }
     ]
 }
