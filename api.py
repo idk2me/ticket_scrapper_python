@@ -1,7 +1,4 @@
 import scrapper as sc
-from selenium import webdriver
-import webdriver_manager.chrome as ChromeDriverManager
-from bs4 import BeautifulSoup as bs
 
 data = sc.Category('kategorijos.json', 'sportas')
 
@@ -11,7 +8,7 @@ if(data != 0):
 
     soup = bs(driver.page_source, 'html.parser')
 
-    results = soup.find_all('a', {'class': 'event_short event'})
+    
 
     # Getting all the links
     def get_hrefs(html):
